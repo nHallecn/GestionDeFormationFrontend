@@ -39,4 +39,3 @@ This project was completed as part of my internship at **CAMRAIL** from July 1, 
 Feel free to contact me with any questions or collaboration opportunities.
 
 * **Email:** njihalle10@gmail.com
-* **LinkedIn:** (Add your LinkedIn profile link here)
