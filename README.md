@@ -13,7 +13,6 @@ This is a comprehensive Training Management System developed during my software 
 * **Backend:** Node.js
 * **Frontend:** HTML, CSS, JavaScript
 * **Database:** (Specify your database, e.g., MySQL, PostgreSQL)
-* **Tools:** Visual Studio, Dev C++
 
 ### **Installation & Setup**
 1.  **Clone the repository:**
